@@ -1,4 +1,4 @@
-Student Blueprint LWC
+#Student Blueprint LWC
 
 The Student Blueprint LWC is a Salesforce Lightning Web Component that allows students to plan their class schedules and track how many hours they will be spending on their classes each week. With this tool, students can easily see how their class schedules will impact their available time and make adjustments as needed to ensure they are able to manage their time effectively.
 
