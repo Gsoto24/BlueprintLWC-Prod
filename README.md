@@ -9,7 +9,7 @@ To use the Student Blueprint LWC, students must first create an account using Sa
 
 ![alt text](https://github.com/Gsoto24/BlueprintLWC-Prod/blob/master/BP3.png)
 
-<h2>For Counselors</h2>
+<h2>How this looks on Salesforce</h2>
 On the backend, Salesforce tracks all of the information that students input as records, which can be used by counselors to help guide students in their time management.
 
 <hr/>
