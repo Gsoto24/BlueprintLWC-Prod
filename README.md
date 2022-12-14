@@ -10,8 +10,7 @@ To use the Student Blueprint LWC, students must first create an account using Sa
 ![alt text](https://github.com/Gsoto24/BlueprintLWC-Prod/blob/master/BP3.png)
 
 <h2>How this looks on Salesforce</h2>
-On the backend, Salesforce tracks all of the information that students input as records, which can be used by counselors to help guide students in their time management.
-
+On the backend, Salesforce verifies if the student has access to the student blueprint app. If a student does not have access, an error message will be displayed and notified to our support inbox. The information entered by a verified student is tracked on a custom object, which can be reported on by counselors to help guide students in planning for future courses and improving their time management.
 <hr/>
 
 With the Student Blueprint LWC, students can easily plan their class schedules and stay on top of their time management, ensuring they have the time and energy to focus on their studies and succeed in their academic pursuits.
