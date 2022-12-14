@@ -1,18 +1,9 @@
-# Salesforce DX Project: Next Steps
+Student Blueprint LWC
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+The Student Blueprint LWC is a Salesforce Lightning Web Component that allows students to plan their class schedules and track how many hours they will be spending on their classes each week. With this tool, students can easily see how their class schedules will impact their available time and make adjustments as needed to ensure they are able to manage their time effectively.
 
-## How Do You Plan to Deploy Your Changes?
+To use the Student Blueprint LWC, students must first create an account using Salesforce Communities. Once they have an account, they can log in and begin adding classes to their schedule. The LWC will automatically track the estimated amount of time each class will take up each week and provide a visual gauge that shows the student how many hours they will be spending on their classes.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+On the backend, Salesforce tracks all of the information that students input as records, which can be used by counselors to help guide students in their time management.
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+With the Student Blueprint LWC, students can easily plan their class schedules and stay on top of their time management, ensuring they have the time and energy to focus on their studies and succeed in their academic pursuits.
